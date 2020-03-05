@@ -4,8 +4,8 @@
  
 String apiKey = "QZ7S9NIHIOK39YW9";     //  Enter your Write API key from ThingSpeak
 
-const char *ssid =  "Redmi";     // replace with your wifi ssid and wpa2 key
-const char *pass =  "rohit1912";
+const char *ssid =  "SSID";     // replace with your wifi ssid and wpa2 key
+const char *pass =  "SSID PASSWORD";
 const char* server = "api.thingspeak.com";
 
 #define DHTPIN 0          //pin where the dht11 is connected
